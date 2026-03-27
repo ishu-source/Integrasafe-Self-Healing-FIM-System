@@ -1,10 +1,5 @@
 # 🔐 IntegraSafe – Self-Healing File Integrity Monitoring System
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Security](https://img.shields.io/badge/Focus-Cybersecurity-red)
-
 ---
 
 ## 📌 Overview
