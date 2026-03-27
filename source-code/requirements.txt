@@ -1,0 +1,14 @@
+# IntegraSafe v4.0 – Requirements
+# Install all with: pip install -r requirements.txt
+
+# ── REQUIRED (app will not start without these) ──────────────────
+customtkinter>=5.2.0
+watchdog>=3.0.0
+cryptography>=41.0.0
+reportlab>=4.0.0
+Pillow>=10.0.0
+
+# ── OPTIONAL (app works without these, features gracefully disabled) ──
+matplotlib>=3.7.0     # Live analytics chart in Analytics tab
+plyer>=2.1.0          # Desktop toast notifications on threat
+pystray>=0.19.0       # System tray icon (Windows/Linux/Mac)
